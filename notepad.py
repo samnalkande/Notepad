@@ -62,7 +62,7 @@ def paste():
     TextArea.event_generate(("<>"))
 
 def about():
-    showinfo("Notepad", "Notepad by Code With Harry")
+    showinfo("Notepad", "Notepad by sasmit")
 
 if __name__ == '__main__':
     #Basic tkinter setup
